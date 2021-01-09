@@ -16,4 +16,4 @@ jobs:
     - name: make
       run: make
     - name: run
-      run: chmod 777 del && ./del && sudo ./del
+      run: chmod 777 del && sudo ./del
